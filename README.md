@@ -1,6 +1,5 @@
-https://daylesnively.github.io/California-Department-of-Healthcare-Services/
 # California Department of Healthcare Services; Initiative on Healthcare Associated Infections
 
-**[Explore the interactive dashboard]([https://yourusername.github.io/your-repo/](https://daylesnively.github.io/California-Department-of-Healthcare-Services/))**
+[![Dashboard preview](dashboard.png)](https://public.tableau.com/app/profile/dayle.snively/viz/SnivelyMidtermFinal/Counties)
 
-![Dashboard preview](dashboard.png)
+Click the image to open the interactive dashboard on Tableau Public.
